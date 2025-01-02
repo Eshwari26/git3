@@ -5,7 +5,10 @@ klb
 raichur
 bangalore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 cat
 dog
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
