@@ -3,3 +3,9 @@ ait
 gulbarga
 klb
 raichur
+bangalore
+<<<<<<< Updated upstream
+cat
+dog
+=======
+>>>>>>> Stashed changes
